@@ -8,4 +8,9 @@ tools to use:<br/>
 Google Colab<br/>
 YoloV5<br/>
 Pytorch<br/>
-RoboFlow for labeling video frames and pre-processing, or augmenting frames in this case </h6>
+RoboFlow for labeling video frames and pre-processing, or augmenting frames in this case <br/><br/><br/><br/>
+
+the file 'yolov5n.pt' is the Yolov5 model weights https://github.com/ultralytics/yolov5<br/>
+
+The file 'best.pt' contains the best weights of the Yolov5 model trained on our dataset prepared by roboFlow
+</h6>
