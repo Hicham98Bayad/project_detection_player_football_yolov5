@@ -13,6 +13,7 @@ RoboFlow for labeling video frames and pre-processing, or augmenting frames in t
 the file 'yolov5n.pt' is the Yolov5 model weights https://github.com/ultralytics/yolov5<br/>
 
 The file 'best.pt' contains the best weights of the Yolov5 model trained on our dataset prepared by roboFlow <br><br/>
+The last file 'last.pt'contains the last of the weights which produced the model <br><br>
 ![image](https://user-images.githubusercontent.com/108405071/216783250-524085fe-d72b-4a76-8b3a-b725bae7e09b.png)
 
 all results in the Drivere ; https://drive.google.com/drive/folders/17pdFKlxmUsGjAbITGpzkLyyFpIBaAyt1?usp=sharing <br><br><br>
